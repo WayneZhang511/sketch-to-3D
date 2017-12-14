@@ -1,3 +1,5 @@
 # sketch-to-3D
 
-[embed]https://waynezhang511.github.io/sketch_3d_lab_presentation.pdf[/embed]
+This is an ongoing rearch project and not ready for being published.
+
+Please visit sketch_3d_lab_presentation.pdf in this repo for more information about the current progress.
